@@ -18,8 +18,8 @@ h1{
 /* jogo */
 #container{
     display: flex;
-    width: 300px;
-    margin: 0;
+    width: 280px;
+    margin: 30px 0 0 0;
     flex-direction: row;
     flex-wrap: wrap;
     position: relative;
@@ -103,7 +103,7 @@ h1{
     left: 0;
     right: 0;
     top: 150px;
-    width: 300px;
+    width: 80%;
     font-feature-settings: 50px;
     background-color: #000;
     color: #fff;
